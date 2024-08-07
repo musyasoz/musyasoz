@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @musyasoz
+- 👋 Hi, I’m Mustafa Yasir Özdemir
 - 👀 I’m interested in Electrophysiological signal processing specially EEG & ML algorithms
 - 🌱 I’m currently learning tensorflow, MNE...
 - 💞️ I’m looking to collaborate on  EEG analysis for Autism, Childhood Neuropathies & Dementia 
