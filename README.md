@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @musyasoz
 - 👀 I’m interested in Electrophysiological signal processing specially EEG & ML algorithms
 - 🌱 I’m currently learning tensorflow, MNE...
-- 💞️ I’m looking to collaborate on  EEG analysis for Autism, Childhood Nöropathies & Dementia 
+- 💞️ I’m looking to collaborate on  EEG analysis for Autism, Childhood Neuropathies & Dementia 
 - 📫 How to reach me musyasoz@gmail.com
 
 <!---
